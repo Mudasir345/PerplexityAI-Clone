@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended" // Recommended ESLint rules
+  ],
+  "rules": {
+    // Yahan aap custom rules add kar sakte hain
+  }
+}
